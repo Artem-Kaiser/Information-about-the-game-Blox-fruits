@@ -1,0 +1,37 @@
+body {
+    background-color: #3a3a3a;
+    color: #e7e7e7;
+
+    font-size: 21px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.avatar {
+    width: 600px;
+    border-radius: 30px;
+
+}
+
+.info p {
+    color: #a3a3a3;
+    margin: o;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: unset;
+    letter-spacing: 3px;
+}
+ 
+a {
+    color:rgb(255, 255, 255);
+text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.blox h2 {
+    text-align: center;
+}
